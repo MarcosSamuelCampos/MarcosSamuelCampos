@@ -7,7 +7,7 @@
   
 <p align="left">
    <p align="left">
-    <a href="https://github.com/MarcosSamuelCampos?tab=reposito">
+    <a href="https://github.com/MarcosSamuelCampos?tab=repositories">
         <img 
             alt="Seguidores" 
             title="Repositórios" 
